@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "diffwise"
 version = "1.0.0"
 description = "Multi-Agent AI Pull-Request Reviewer: automated PR analysis, security and architectural checks, and GitHub app integration"
-readme = "../README.md"
+readme = "README.md"
 authors = [{ name = "Kyrollo", email = "kyrollo@users.noreply.github.com" }]
 requires-python = ">=3.12"
 dependencies = [
