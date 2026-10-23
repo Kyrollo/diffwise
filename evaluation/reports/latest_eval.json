@@ -1,0 +1,15 @@
+{
+  "product": "diffwise",
+  "timestamp": 1791716796.69797,
+  "status": "PASSED",
+  "total_benchmark_time_seconds": 3.901,
+  "diff_parse_latency_us": 116.2,
+  "diff_lines_parsed": 10,
+  "linter_latency_us": 589.1,
+  "violations_count": 3,
+  "critical_violations": 2,
+  "gpu_review_latency_ms": 3900.16,
+  "risk_score": 90,
+  "merge_status": "BLOCKED",
+  "model": "qwen2.5:0.5b"
+}
